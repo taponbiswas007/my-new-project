@@ -18,10 +18,13 @@ h2{
     background-color: rgb(233, 14, 14);
     color: aliceblue;
 }
-.cat1,.cat2,.cat3{
+.cat-1,.cat-2,.cat-3{
     padding: 10px 30px;
     border: 1px solid plum;
      border-radius: 10px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
 }
 .cat1{
  background-color:rgb(168 197 226);
